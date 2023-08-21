@@ -49,9 +49,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ## This is an `<h2>` header
 
-###### This is an `<h6>` header, which is the smallest
+#### This is an `<h4>` header
 
-### :keyboard: Activity: Edit your file with headers
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
@@ -64,7 +63,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+### This is an '<h3>' that I edited for a change to commit
 <footer>
 
 <!--
