@@ -4,6 +4,8 @@
 
 #### This is an `<h4>` header
 
+## This is Yaktocat
+
 =======
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
