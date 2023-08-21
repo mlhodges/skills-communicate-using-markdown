@@ -49,9 +49,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ## This is an `<h2>` header
 
-###### This is an `<h6>` header, which is the smallest
+#### This is an `<h4>` header
 
-### :keyboard: Activity: Edit your file with headers
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
