@@ -1,1 +1,10 @@
-### This is my `<h3>` header I am adding to my index.md file for commit
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+#### This is an `<h4>` header
+
+=======
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+
+### :keyboard: Activity: Adding an image
